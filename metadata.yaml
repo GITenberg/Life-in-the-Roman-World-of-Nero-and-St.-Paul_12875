@@ -1,0 +1,28 @@
+_repo: Life-in-the-Roman-World-of-Nero-and-St.-Paul_12875
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tucker, T. G. (Thomas George)
+    alias: Tucker, Thomas George
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '4683'
+    url: http://www.gutenberg.org/2009/agents/4683
+    wikipedia: http://www.adb.online.anu.edu.au/biogs/A120310b.htm
+description: ''
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Social conditions'
+- !lcsh 'Rome -- Civilization'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'DG'
+- GITenberg
+title: Life in the Roman World of Nero and St. Paul
+url: http://www.gutenberg.org/ebooks/12875
